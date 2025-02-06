@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @viluong, I'm a software engineer.
-- 👀 I’m interested in coding and some interesting things... And this is where I practice my technical.
+- 👋 Hi, I’m Vi, I'm a software engineer.
+- 👀 I’m interested in coding and technology... And this is where I practice my technical.
 - 📫 My email: viluong1610@gmail.com.
 
 <!---
